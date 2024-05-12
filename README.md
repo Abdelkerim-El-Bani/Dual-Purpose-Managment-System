@@ -1,2 +1,2 @@
 # Dual-Purpose-Managment-System
-This system allows both patients and administrative staff to manage date, make appointments, visualize date and other useful functions.
+This project is a comprehensive management system designed for doctor cabinets. It allows doctors and administrative staff to efficiently manage patients, appointments, medical records, and other essential tasks. Additionally, patients can utilize the system to schedule appointments, access medical records, and manage their personal information. The system provides a user-friendly interface for both healthcare providers and patients.
