@@ -70,7 +70,7 @@ make clean
 ## 🖼️ Interface Preview  
 
 <p align="center">
-  <img src="docs/Menu_Showcase.png" width="420" alt="System Menu Preview"/>
+  <img src="docs/Menu_Showcase.PNG" width="420" alt="System Menu Preview"/>
 </p>
 
 ---
